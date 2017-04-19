@@ -1,4 +1,7 @@
-# test coverage for  [caminte (v0.3.6)](http://camintejs.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-caminte.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-caminte) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-caminte.svg)](https://travis-ci.org/npmtest/node-npmtest-caminte)
+# npmtest-caminte
+
+#### basic test coverage for  [caminte (v0.3.6)](http://camintejs.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-caminte.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-caminte) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-caminte.svg)](https://travis-ci.org/npmtest/node-npmtest-caminte)
+
 #### ORM for every database: redis, mysql, neo4j, mongodb, rethinkdb, postgres, sqlite, tingodb
 
 [![NPM](https://nodei.co/npm/caminte.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/caminte)
